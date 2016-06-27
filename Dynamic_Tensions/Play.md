@@ -1,16 +1,17 @@
-# Play Tension
+# Flow Tension
 
 ## Fun <--> Engagement
 
-The optimal state of learning, is play.
+The optimal state of learning, is flow.
 
-The Play Tension optimizes the energies between dedicated engagement, and  fun. We believe that when take ourselves lightly and take our purpose seriously, when we approach our practices with wholeheartedness and immerse ourselves in them, we get into the flow, or a state of sustained engagement that generates spontaneous joy.  
+The Flow Tension optimizes the energies between dedicated engagement, and  fun. We believe that when take ourselves lightly and take our purpose seriously, when we approach our practices with wholeheartedness and immerse ourselves in them, we get into the flow, or a state of sustained engagement that generates spontaneous joy.  
 
 ## Fun
 
 - Enjoyment
 - Aimless exploration
 - Curiosity
+- Play
 
 ## Engagement
 

@@ -1,6 +1,5 @@
 # Culture OS
 
-  * [CONTRIBUTING](/CONTRIBUTING.md)
 - [Ceremonies](/Ceremonies/README.md)
 - [Dynamic Tensions](/Dynamic_Tensions/README.md)
     * [Belonging](/Dynamic_Tensions/Belonging.md)
@@ -9,6 +8,9 @@
     * [Mastery](/Dynamic_Tensions/Mastery.md)
     * [Play](/Dynamic_Tensions/Play.md)
   * [GLOSSARY](/GLOSSARY.md)
+- [Game Manual](/Game_Manual/README.md)
+    * [Basic Gameplay](/Game_Manual/Basic_Gameplay.md)
+    * [Echo](/Game_Manual/Echo.md)
 - Misc
     * [Guidelines](/Misc/Guidelines.md)
     * [Purpose](/Misc/Purpose.md)
@@ -31,4 +33,5 @@
     * [Radical Responsibility](/Practices/Radical_Responsibility.md)
 - [Processes](/Processes/README.md)
     * [Conflict](/Processes/Conflict.md)
+- [Runway](/Runway/README.md)
 - Images
