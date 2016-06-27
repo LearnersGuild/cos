@@ -1,6 +1,14 @@
 # Culture OS
 
+  * [CONTRIBUTING](/CONTRIBUTING.md)
 - [Ceremonies](/Ceremonies/README.md)
+    * [Brainstorm](/Ceremonies/Brainstorm.md)
+    * [Check In](/Ceremonies/Check_In.md)
+    * [Check Out](/Ceremonies/Check_Out.md)
+    * [Climate Check](/Ceremonies/Climate_Check.md)
+    * [Collective Vision](/Ceremonies/Collective_Vision.md)
+    * [Deepen Practice](/Ceremonies/Deepen_Practice.md)
+    * [Home Group](/Ceremonies/Home_Group.md)
 - [Dynamic Tensions](/Dynamic_Tensions/README.md)
     * [Belonging](/Dynamic_Tensions/Belonging.md)
     * [Efficacy](/Dynamic_Tensions/Efficacy.md)
@@ -8,12 +16,6 @@
     * [Mastery](/Dynamic_Tensions/Mastery.md)
     * [Play](/Dynamic_Tensions/Play.md)
   * [GLOSSARY](/GLOSSARY.md)
-- [Game Manual](/Game_Manual/README.md)
-    * [Basic Gameplay](/Game_Manual/Basic_Gameplay.md)
-    * [Echo](/Game_Manual/Echo.md)
-- Misc
-    * [Guidelines](/Misc/Guidelines.md)
-    * [Purpose](/Misc/Purpose.md)
 - [Policies](/Policies/README.md)
     * [Code Of Conduct](/Policies/Code_of_Conduct.md)
     * [Complaint Policy](/Policies/Complaint_Policy.md)
@@ -33,5 +35,6 @@
     * [Radical Responsibility](/Practices/Radical_Responsibility.md)
 - [Processes](/Processes/README.md)
     * [Conflict](/Processes/Conflict.md)
-- [Runway](/Runway/README.md)
+    * [New Experiment](/Processes/New_Experiment.md)
+    * [Solidify Experiment](/Processes/Solidify_Experiment.md)
 - Images
