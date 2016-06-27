@@ -1,5 +1,7 @@
 # Radical Honesty
 
+**Serves Values:** Truth
+
 Practice Being Real
 Speaking my truth clearly and authentically.
 

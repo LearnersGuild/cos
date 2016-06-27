@@ -1,6 +1,6 @@
 # Radical Responsibility
 
-TODO: cleanup
+**Serves Values:** Agency, Engagement
 
 
 Accountability: Accepting responsibility for my actions. Owning my stuff

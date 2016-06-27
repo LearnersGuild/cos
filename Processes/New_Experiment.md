@@ -2,21 +2,21 @@
 
 **Purpose:** To suggest a new culture component for the group to experiment with. Moving a new culture component to trial mode.
 
-Proposer makes a proposal in the form of a practice, policy, process, ceremony, or shared language
-Round of clarifying questions
-Reaction round
-Propose drops, changes, or proposes proposal unchanged
-Objection round: Not safe enough to try or sets us backwards
-If there is an objection there’s a conversation between proposer and objector, and facilitator makes the call if no resolution is made
+
+- Proposer makes a proposal in the form of a practice, policy, process, ceremony, or shared language
+- Round of clarifying questions
+- Reaction round
+- Propose drops, changes, or proposes proposal unchanged
+- Objection round: Not safe enough to try or sets us backwards
+- If there is an objection there’s a conversation between proposer and objector, and facilitator makes the call if no resolution is made
 Proposal is adopted in trial mode
 
-Necessary parts of a proposal:
+- Necessary parts of a proposal:
 
 Type of culture component
 Value(s) it deepens
 Trial period
 Description
-
 
 
 Process each agenda item with the Integrative Decision Making process

@@ -1,5 +1,7 @@
 # Practice Resisting and Overcoming Oppression
 
+**Serves Values:** Being in Relationship
+
 Because of our collective history and the poor design of the social and economic systems we operate in, the dice are loaded. Racism, sexism, classism, homophobia are some of the many ways there is a systematic imbalance of power and privilege in our society.
 
 If we are to earnestly attempt to fulfill the purpose of "a dignified livelihood for everyone" we need to commit to developing a deep and evolving understanding of how oppression works. In doing this, we need to address how oppression is systemic. More directly, we need to address how we ourselves have been conditioned to be a part of the system: how we might be unconsciously biased, and how we may act or speak in ways that perpetuate oppression.
