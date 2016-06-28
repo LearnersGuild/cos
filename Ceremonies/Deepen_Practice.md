@@ -4,6 +4,6 @@
 **Serves Values:** All
 
 - Discuss a practice and deepen it
-- Reaction round re: accountability with practice
-- Triads / Diads
+- Check-in round re: accountability with practice
+- Triads/Diads
 - Harvest learning in group

@@ -1,6 +1,5 @@
 # Culture OS
 
-  * [CONTRIBUTING](/CONTRIBUTING.md)
 - [Ceremonies](/Ceremonies/README.md)
     * [Brainstorm](/Ceremonies/Brainstorm.md)
     * [Check In](/Ceremonies/Check_In.md)
@@ -15,7 +14,6 @@
     * [Growth](/Dynamic_Tensions/Growth.md)
     * [Mastery](/Dynamic_Tensions/Mastery.md)
     * [Play](/Dynamic_Tensions/Play.md)
-  * [GLOSSARY](/GLOSSARY.md)
 - [Policies](/Policies/README.md)
 - [Practices](/Practices/README.md)
     * [Accountability](/Practices/Accountability.md)
@@ -30,4 +28,5 @@
     * [Conflict](/Processes/Conflict.md)
     * [New Experiment](/Processes/New_Experiment.md)
     * [Solidify Experiment](/Processes/Solidify_Experiment.md)
-- Images
+* [CONTRIBUTING](/CONTRIBUTING.md)
+* [GLOSSARY](/GLOSSARY.md)
