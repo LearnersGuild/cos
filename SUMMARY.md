@@ -1,7 +1,7 @@
 # Culture OS
 
 - [Ceremonies](/Ceremonies/README.md)
-    * [Brainstorm](/Ceremonies/Brainstorm.md)
+    * [Brainstorm](/Ceremonies/Brainstorming.md)
     * [Check In](/Ceremonies/Check_In.md)
     * [Check Out](/Ceremonies/Check_Out.md)
     * [Climate Check](/Ceremonies/Climate_Check.md)
