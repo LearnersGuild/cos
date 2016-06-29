@@ -1,4 +1,4 @@
-# 360 Feedback Ceremony
+# Circle Feedback Ceremony
 
 **Purpose:** To give and receive feedback about our work relationship
 
