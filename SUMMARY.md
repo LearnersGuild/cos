@@ -13,7 +13,7 @@
     * [Efficacy](/Dynamic_Tensions/Efficacy.md)
     * [Growth](/Dynamic_Tensions/Growth.md)
     * [Mastery](/Dynamic_Tensions/Mastery.md)
-    * [Play](/Dynamic_Tensions/Play.md)
+    * [Flow](/Dynamic_Tensions/Flow.md)
 - [Policies](/Policies/README.md)
   * [Non Triangulation](/Policies/Non_Triangulation.md)
 - [Practices](/Practices/README.md)

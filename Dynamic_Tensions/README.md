@@ -8,5 +8,5 @@ We strive for an environment that doesn’t trade one core value for the other, 
 * [Belonging](/Dynamic Tensions/Belonging.md)
 * [Efficacy](/Dynamic Tensions/Efficacy.md)
 * [Growth](/Dynamic Tensions/Growth.md)
-* [Play](/Dynamic Tensions/Play.md)
+* [Play](/Dynamic Tensions/Flow.md)
 * [Mastery](/Dynamic Tensions/Mastery.md)
