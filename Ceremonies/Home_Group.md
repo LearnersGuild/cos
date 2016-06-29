@@ -9,7 +9,7 @@
 
 **Step 3: Solidify Experiments**
 
-Run each proposal in a trial period through the [Solidify Experiment](/Processes/Solidify_Experiment.md) process.
+- Run each proposal in a trial period through the [Solidify Experiment](/Processes/Solidify_Experiment.md) process.
 
 **Step 4: Build proposals**
 
@@ -30,3 +30,14 @@ If the proposal selected is a new component, the facilitator runs a [new experim
 If there is time left for another component, the facilitator initiates another select proposal round.
 
 **Step 7: [Checkout](Check-out.md)**
+
+---
+
+### Facilitator notes
+
+- Project the [Dynamic Tensions Board](https://docs.google.com/spreadsheets/d/1kTIV5f3U12BuIRzlgTiETbE0OTMRWiAtKgXdROvLcAY/edit#gid=773629604) to the group before starting
+- Introduce the "Process Timeout" and encourage anybody to use it to ask clarifying questions about the process.
+- Remind everyone about the agency & safety values. They have a choice about wether or not participate. They need to speak up if they don't feel safe. Ceremonies are by definition non-coercive. They must be entered willingly.
+- Note that start time and end time of the ceremony.
+- Remind people to turn screens off and to protect the space from their "todos".
+- People might need their screens during the **build proposals** step. Remind them to stay focussed and close their screens the moment they feel they have all their proposals in.

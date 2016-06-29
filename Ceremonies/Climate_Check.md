@@ -4,8 +4,7 @@
 
 **Serves Values:** Truth, Engagement
 
-- Post the dynamic tensions in a place where everyone can see them
-- People take turns completing any (or all) of the following sentences:
+People take turns completing any (or all) of the following sentences:
 
 "A Value/Values I feel us working with is...." and name one or more values that they feel are being respected and held in the space.
 
@@ -13,4 +12,10 @@
 
 "A Value/Values that I would like us to deepen in/work more with is...." and name one or more values that you feel you and/or the group would benefit from deepening in more. These could be the same or different values from the ones above.
 
-"The reason for that is..." and name a behavior, feeling, desire, or observation or short story that leads you to wanting to deepen the above value(s) more. 
+"The reason for that is..." and name a behavior, feeling, desire, or observation or short story that leads you to wanting to deepen the above value(s) more.
+
+---
+
+### Facilitator notes
+
+- Project the [Dynamic Tensions Board](https://docs.google.com/spreadsheets/d/1kTIV5f3U12BuIRzlgTiETbE0OTMRWiAtKgXdROvLcAY/edit#gid=0) in a place where everyone can see
