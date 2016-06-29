@@ -1,6 +1,6 @@
 # Check-in Ceremony
 
-**Purpose:** To get present. Start a ceremony.
+**Purpose:**  This is a **built-in** process used to get present.
 
 **Serves Values:** Truth. Being Myself. Engagement.
 

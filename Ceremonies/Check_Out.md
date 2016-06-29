@@ -1,6 +1,6 @@
 # Check-out Ceremony
 
-**Purpose:** To get present. Harvest lessons learnt. Share appreciations.
+**Purpose:**  This is a **built-in** process used to get present. Harvest lessons learnt. Share appreciations.
 
 **Serves Values:** Truth. Being Myself. Engagement.
 

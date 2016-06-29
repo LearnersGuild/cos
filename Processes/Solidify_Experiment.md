@@ -1,6 +1,7 @@
 # Solidify Experiment Process
 
-**Purpose:** To decide wether or not to adopt a culture component that's on trial basis
+**Purpose:**  This is a **built-in** process used to decide wether or not to adopt a culture component that's on trial basis
+
 **Serves Values:** Engagement, Truth (feedback)
 
 ## Reaction Round

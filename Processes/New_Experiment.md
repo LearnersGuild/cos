@@ -1,6 +1,7 @@
 # New Experiment Process
 
-**Purpose:** To suggest a new culture component for the group to experiment with. Moving a new culture component to trial mode.
+**Purpose:** This is a **built-in** process used to suggest a new culture component for the group to experiment with. This process can also be used to suggest removing a component or adjusting one. 
+
 **Values:** Engagement
 
 ## Present proposal
@@ -41,7 +42,7 @@ Although the proposer can modify the proposal however they want, the goal is for
 
 One at a time, the Facilitator asks each participant if they see “any reason why adopting this proposal would cause harm or is not safe enough to try”. The proposer also gets the opportunity to raise an objection. Objections are stated, tested, & captured without discussion. One person may have several objections, and everyone’s objections must be captured before we move to the next step.
 
-If there is no objection, the culture component proposed is adopted as an experiment in "trial" mode. 
+If there is no objection, the culture component proposed is adopted as an experiment in "trial" mode.
 
 ## Integration
 
