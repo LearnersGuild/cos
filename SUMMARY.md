@@ -4,7 +4,7 @@
     * [Brainstorm](/Ceremonies/Brainstorming.md)
     * [Check In](/Ceremonies/Check_In.md)
     * [Check Out](/Ceremonies/Check_Out.md)
-    * [Circle Feedback](/Ceremonies/360_Feedback.md)
+    * [Circle Feedback](/Ceremonies/Circle_Feedback.md)
     * [Climate Check](/Ceremonies/Climate_Check.md)
     * [Clearing](/Ceremonies/Clearing.md)
     * [Collective Vision](/Ceremonies/Collective_Vision.md)
