@@ -29,6 +29,7 @@ Once all objections are integrated, go back to an Objection round to ensure ther
 
 Using a thumbs up / thumbs down / sideways the facilitator asks everyone to vote for adopting this proposal and/or extending the experiment.
 
-If two thirds or more gave a thumbs up, the experiment is adopted as a permanent culture component. If there half to two-thirds gave a thumbs up the experiment is extended for another trial period. If less than half of the group votes thumbs up the experiment is dropped.
-
-Regardless of how many thumbs up it receives, an amended experiment cannot be permanently adopted and must be extended for another trial period. 
+- If two thirds or more gave a thumbs up, the experiment is adopted as a permanent culture component.
+- If there are more thumbs up than thumbs down the experiment is extended for another trial period.
+- If there are more thumbs down than thumbs up the experiment is dropped.
+- Regardless of how many thumbs up it receives, an amended experiment cannot be permanently adopted and must be extended for another trial period.
