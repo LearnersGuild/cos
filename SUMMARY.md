@@ -25,7 +25,7 @@
     * [Radical Honesty](/Practices/Radical_Honesty.md)
     * [Radical Responsibility](/Practices/Radical_Responsibility.md)
 - [Processes](/Processes/README.md)
-    * [Conflict](/Processes/Conflict.md)
+    * [Conflict Resolution](/Processes/Conflict.md)
     * [New Experiment](/Processes/New_Experiment.md)
     * [Solidify Experiment](/Processes/Solidify_Experiment.md)
 * [CONTRIBUTING](/CONTRIBUTING.md)

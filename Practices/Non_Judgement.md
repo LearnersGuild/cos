@@ -5,3 +5,7 @@
 - Super ego
 - Defending
 - Discernment v.s. Judgement
+
+## Shared Language
+
+- Super Ego
