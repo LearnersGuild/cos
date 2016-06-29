@@ -1,5 +1,9 @@
 # Check-out Ceremony
 
+**Purpose:** To get present. Harvest lessons learnt. Share appreciations.
+
+**Serves Values:** Truth. Being Myself. Engagement.
+
 - No screens
 - Share Take-aways / Lessons learned
 - Share Appreciations

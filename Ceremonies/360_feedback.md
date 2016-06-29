@@ -1,5 +1,10 @@
 # 360 Feedback Ceremony
 
+**Purpose:** To give and receive feedback about our work relationship
+
+**Serves Values:** Truth. Being in Relationship
+
+
 - Stand in a circle, or sit in a semi circle
 - One at a time a feedback receiver takes the "hot seat" when they are ready
 - Feedback giver raises their hand if they have feedback for them

@@ -1,6 +1,7 @@
 # Check-in Ceremony
 
 **Purpose:** To get present. Start a ceremony.
+
 **Serves Values:** Truth. Being Myself. Engagement.
 
 - No screens
