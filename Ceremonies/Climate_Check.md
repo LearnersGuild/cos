@@ -19,3 +19,4 @@ People take turns completing any (or all) of the following sentences:
 ### Facilitator notes
 
 - Project the [Dynamic Tensions Board](https://docs.google.com/spreadsheets/d/1kTIV5f3U12BuIRzlgTiETbE0OTMRWiAtKgXdROvLcAY/edit#gid=0) in a place where everyone can see
+- Remind people that they can pass (and then get back to them at the end of the round). Anybody can pass twice if they don't want to share. 

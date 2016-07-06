@@ -10,7 +10,7 @@ The proposer identifies one or more values that they would like to deepen themse
 
 The proposal is in the form of a new culture component for the group to adopt on a trial basis. It consists of 4 parts:
 
-1. Type of culture component: practice, policy, process, ceremony, or shared language
+1. Type of culture component: practice, agreement, process, ceremony, or shared language
 2. Value(s) it deepens: Which of the ten values does the proposal address/deepen
 3. Trial period length: How long should the experiment run before considered for full adoption
 4. Description: A brief overview of the culture component

@@ -1,6 +1,8 @@
 # Culture OS
 
 - [Board](https://docs.google.com/spreadsheets/d/1kTIV5f3U12BuIRzlgTiETbE0OTMRWiAtKgXdROvLcAY/edit#gid=773629604)
+- [Agreements](/Agreements/README.md)
+    * [Non Triangulation](/Agreements/Non_Triangulation.md)
 - [Ceremonies](/Ceremonies/README.md)
     * [Brainstorm](/Ceremonies/Brainstorming.md)
     * [Check In](/Ceremonies/Check_In.md)
@@ -17,8 +19,6 @@
     * [Growth](/Dynamic_Tensions/Growth.md)
     * [Mastery](/Dynamic_Tensions/Mastery.md)
     * [Flow](/Dynamic_Tensions/Flow.md)
-- [Policies](/Policies/README.md)
-  * [Non Triangulation](/Policies/Non_Triangulation.md)
 - [Practices](/Practices/README.md)
     * [Accountability](/Practices/Accountability.md)
     * [Clearing Withholds](/Practices/Clearing_Withholds.md)

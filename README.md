@@ -10,7 +10,8 @@ Our Culture OS provides a framework by which we --as members of the learning col
 
 Everyone is responsible for embodying and improving this culture.  
 
-
+- [Agreements](/Agreements/README.md)
+  * [Non Triangulation](/Agreements/Non_Triangulation.md)
 - [Ceremonies](/Ceremonies/README.md)
     * [Brainstorm](/Ceremonies/Brainstorming.md)
     * [Check In](/Ceremonies/Check_In.md)
@@ -25,8 +26,6 @@ Everyone is responsible for embodying and improving this culture.
     * [Growth](/Dynamic_Tensions/Growth.md)
     * [Mastery](/Dynamic_Tensions/Mastery.md)
     * [Play](/Dynamic_Tensions/Play.md)
-- [Policies](/Policies/README.md)
-  * [Non Triangulation](/Policies/Non_Triangulation.md)
 - [Practices](/Practices/README.md)
     * [Accountability](/Practices/Accountability.md)
     * [Clearing Withholds](/Practices/Clearing_Withholds.md)

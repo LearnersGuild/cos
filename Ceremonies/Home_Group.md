@@ -15,7 +15,7 @@
 
 Popcorn style, participants suggest a process or ceremony for the group to do.
 
-If the proposal is regarding a new component, the proposers name the type of component (Ceremony, Policy, Process, or Practice), which value(s) it serves, and give a quick (2 minute) overview of what it is.
+If the proposal is regarding a new component, the proposers name the type of component (Ceremony, Agreement, Process, or Practice), which value(s) it serves, and give a quick (2 minute) overview of what it is.
 
 If the proposal is regarding an existing component, the proposer can choose to elaborate on why they are proposing it or not.
 

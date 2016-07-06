@@ -39,7 +39,7 @@ We deliberately remove obstacles to truth telling. We welcome mistakes as long a
 
 Communication and negotiation among groups of people is difficult, but the more honest we can be with each other, the easier it will be for us to trust one another and work together as a team. Openness and honesty will be critical to our success, which is why this is one of our key values, and why it’s a mantra we repeat in many conversations.
 
-Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page about stuff they’re not working on on a daily basis. These are some of the policies we use to make information more accessible, but our work is ongoing.
+Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page about stuff they’re not working on on a daily basis. These are some of the agreements we use to make information more accessible, but our work is ongoing.
 
 ### Member-to-Member Feedback
 
