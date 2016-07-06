@@ -24,6 +24,7 @@
     * [Clearing Withholds](/Practices/Clearing_Withholds.md)
     * [Non Judgement](/Practices/Non_Judgement.md)
     * [Overcoming Oppression](/Practices/Overcoming_Oppression.md)
+    * [Pause](/Practices/Pause.md)
     * [Presence](/Practices/Presence.md)
     * [Radical Honesty](/Practices/Radical_Honesty.md)
     * [Radical Responsibility](/Practices/Radical_Responsibility.md)

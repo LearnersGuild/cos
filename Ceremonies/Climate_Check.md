@@ -4,7 +4,7 @@
 
 **Serves Values:** Truth, Engagement
 
-People take turns completing any (or all) of the following sentences:
+1. People take turns completing any (or all) of the following sentences:
 
 "A Value/Values I feel us working with is...." and name one or more values that they feel are being respected and held in the space.
 
@@ -14,9 +14,11 @@ People take turns completing any (or all) of the following sentences:
 
 "The reason for that is..." and name a behavior, feeling, desire, or observation or short story that leads you to wanting to deepen the above value(s) more.
 
+2. (optional) Facilitator invites anybody who thought of something else to mention it popcorn style.
 ---
 
 ### Facilitator notes
 
 - Project the [Dynamic Tensions Board](https://docs.google.com/spreadsheets/d/1kTIV5f3U12BuIRzlgTiETbE0OTMRWiAtKgXdROvLcAY/edit#gid=0) in a place where everyone can see
-- Remind people that they can pass (and then get back to them at the end of the round). Anybody can pass twice if they don't want to share. 
+- Remind people that they can pass (and then get back to them at the end of the round). Anybody can pass twice if they don't want to share
+- Resist the temptation to create a visible (or invisible) agenda of the issues people are bringing up. The purpose of the climate check is to bring the dynamic tensions and our shared values to the forefront of our minds and hearts, not to resolve anything. It is a glance in the mirror, a reflection, not a trouble shooting session. 

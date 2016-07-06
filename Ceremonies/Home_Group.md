@@ -38,6 +38,7 @@ If there is time left for another component, the facilitator initiates another s
 - Project the [Dynamic Tensions Board](https://docs.google.com/spreadsheets/d/1kTIV5f3U12BuIRzlgTiETbE0OTMRWiAtKgXdROvLcAY/edit#gid=773629604) to the group before starting.
 - Introduce the "Process Timeout" and encourage anybody to use it to ask clarifying questions about the process. If this is an early group, set the expectation that there will be dozens of Process Timeouts since you won't be describing the process but jumping right in.
 - Remind everyone about the agency & safety values. They have a choice about wether or not participate. They need to speak up if they don't feel safe. Ceremonies are by definition non-coercive. They must be entered willingly.
+- Remind people they can pass in any go-around. If they pass, the facilitator will get to them at the end and give them one more opportunity to participate which they can take or leave. 
 - Note that start time and end time of the ceremony.
 - Remind people to turn screens off and to protect the space from their "todos".
 - People might need their screens during the **build proposals** step. Remind them to stay focussed and close their screens the moment they feel they have all their proposals in.
