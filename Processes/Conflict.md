@@ -2,6 +2,8 @@
 
 **Purpose:**  This is a **built-in** process used to resolve an interpersonal conflict.
 
+**Serves Values:** Truth, Being in Relationship, Safety
+
 As members of a learning collective, we address and resolve conflicts with these principles at front of mind:
 
 * It’s impossible to change other people. We can only change ourselves.

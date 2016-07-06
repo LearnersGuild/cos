@@ -41,3 +41,4 @@ If there is time left for another component, the facilitator initiates another s
 - Note that start time and end time of the ceremony.
 - Remind people to turn screens off and to protect the space from their "todos".
 - People might need their screens during the **build proposals** step. Remind them to stay focussed and close their screens the moment they feel they have all their proposals in.
+- Offer to let anyone facilitate the process at the beginning. Hopefully, one day, someone will take you up on it!
