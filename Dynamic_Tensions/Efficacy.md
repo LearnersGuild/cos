@@ -8,13 +8,14 @@ The Efficacy tension optimizes the energies between structure and agency. We bel
 - Autonomy
 - Freedom
 - Personal Power
-- Practice [Radical Responsibility](/Practices/Radical_Responsibility.md)
 
 ## Structure
-- Clarity: Making what's implicit, explicit
-- Integrity: Keeping my word. Practicing the values I profess
-- Boundaries: Having good boundaries and honoring others' boundaries
-- Practice [Accountability](/practices/Accountability.md)
+
+- Clarity
+- Integrity
+- Boundaries
+- Accountability
+- Reliability
 
 ## Look and Feel
 
