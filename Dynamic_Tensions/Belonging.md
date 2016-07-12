@@ -21,11 +21,11 @@ The Belonging Tension optimizes the energies between the individual and the comm
 - Shared Identity
 - Human Connection
 - Being with Others
-- Belonging
-- Diversity
 - Love
 - Common Good
-- Practice [resisting and overcoming oppression](/Practices/Overcoming_Oppression.md)
+- Diversity
+- Shared Purpose
+- Belonging
 
 ## Look and Feel
 
