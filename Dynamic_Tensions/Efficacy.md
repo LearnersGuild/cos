@@ -10,7 +10,6 @@ The Efficacy tension optimizes the energies between structure and agency. We bel
 - Personal Power
 
 ## Structure
-
 - Clarity
 - Integrity
 - Boundaries

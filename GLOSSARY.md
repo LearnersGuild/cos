@@ -14,11 +14,11 @@ A cohort is a set of learners with a shared start date and chapter.
 I am deliberately and consistently improving my craft and my skills. I aspire to live in my Zone of Proximal Development. I take on Relevant Stretchy Goals
 
 ## Courage
-- I am honest, even when it’s risky.
-- I take actions that frighten me when I believe in the value of the outcome.
-- I choose truth over comfort
-- I am willing to risk the status quo in order to make it better
-- I am willing to risk our relationship, in order to deepen it
+I am honest, even when it’s risky.
+I take actions that frighten me when I believe in the value of the outcome.
+I choose truth over comfort.
+I am willing to risk the status quo in order to make it better.
+I am willing to risk our relationship, in order to deepen it.
 
 ## Craft
 Learners are involved with one or more crafts. These are the industries and skills which learners practice and work in. Web development is an example of a craft, as is graphic design, forestry, and photovoltaic technology.
@@ -43,6 +43,8 @@ I carefully and thoughtfully choose how I spend my time.
 The Guild Core is the central organizational body of Learners Guild. The Core is responsible for all business and operational functions not explicitly under the domain of the chapters. The core is not explicitly geography-specific.
 
 ## Kindness
+We treat ourselves and others with dignity, respect and an open heart.
+We assume good intentions and give others the benefit of doubt.
 I consider how my behavior impacts others and make efforts for that impact to be positive.
 
 ## Learner
@@ -111,6 +113,7 @@ We have crisp definitions of where something ends and something else begins
 
 ## Vulnerability
 I deliberately allow myself to be impacted by others.
+We are committed to [putting down our defenses/reactions/shame and to being touched/moved](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en).
 
 ## Appreciation
 I am present to the goodness in people and generously deliver feedback on my observations.
