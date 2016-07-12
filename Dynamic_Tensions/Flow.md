@@ -9,18 +9,19 @@ The Flow Tension optimizes the energies between dedicated engagement, and  fun. 
 ## Fun
 
 - Enjoyment
-- Aimless exploration
+- Exploration
 - Curiosity
 - Play
+- Wonder
 
 ## Engagement
 
-- Meaning
-- Purpose
 - Dedication
-- Whole heartedness
-- Practice [presence](/Practices/Presence.md)
-- Flow
+- Purpose
+- Meaning
+- Whole Heartedness
+- Full Ownership
+- Presence
 
 ## What it could look like
 
