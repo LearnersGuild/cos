@@ -1,7 +1,5 @@
 ## Accountability
-- I take ownership of my areas of responsibility
-- I am willing to give an accurate recollection of my actions at any time
-- I strive to know the impact of my actions and take all of my impact into account
+I take ownership of my areas of responsibility. I am willing to give an accurate recollection of my actions at any time. I strive to know the impact of my actions and take all of my impact into account
 
 ## Apprentice
 The apprentice stage is the first stage of learning a craft. Learners admitted to a chapter begin their journey as an apprentice. Apprentices are paid an optional minimal stipend and their primary responsibility is to advance the learning of everyone in their cohort, including themselves.
@@ -13,9 +11,7 @@ Chapters are the centers of learning within Learners Guild. They are communities
 A cohort is a set of learners with a shared start date and chapter.
 
 ## Continuous Growth
-- I am deliberately and consistently improving my craft and my skills
-- I aspire to live in my Zone of Proximal Development
-- I take on Relevant Stretchy Goals
+I am deliberately and consistently improving my craft and my skills. I aspire to live in my Zone of Proximal Development. I take on Relevant Stretchy Goals
 
 ## Courage
 - I am honest, even when it’s risky.
