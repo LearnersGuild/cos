@@ -2,6 +2,7 @@
 
 **Serves Values:** Safety
 
+## Shared Knowledge
 - Super ego
 - Defending
 - Discernment v.s. Judgement
