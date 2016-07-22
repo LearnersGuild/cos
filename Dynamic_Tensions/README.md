@@ -6,8 +6,8 @@ We strive for an environment that doesn’t trade one core value for the other, 
 
 It's important that we hold these values as north stars to aspire to, not as impossible ideals to judge ourselves and each other by.
 
-* [Belonging](/Dynamic Tensions/Belonging.md)
-* [Efficacy](/Dynamic Tensions/Efficacy.md)
-* [Growth](/Dynamic Tensions/Growth.md)
-* [Play](/Dynamic Tensions/Flow.md)
-* [Mastery](/Dynamic Tensions/Mastery.md)
+* [Belonging](/Dynamic_Tensions/Belonging.md)
+* [Efficacy](/Dynamic_Tensions/Efficacy.md)
+* [Growth](/Dynamic_Tensions/Growth.md)
+* [Play](/Dynamic_Tensions/Flow.md)
+* [Mastery](/Dynamic_Tensions/Mastery.md)
