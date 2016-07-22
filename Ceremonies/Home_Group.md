@@ -33,12 +33,27 @@ If there is time left for another component, the facilitator initiates another s
 
 ---
 
-### Facilitator notes
+## Facilitator notes
+
+### Home Group Framing
+
+- Purpose of home group is to deliberately co-create culture. Culture happens. It's not something we can control, but it's something we can intentionally impact. Culture is invisible and impacts us more than anything else. Our Cultural Operating System assumes two things: First: Culture is critical to succeeding. Second: We can be intentional about co-creating it, and deliberate in evolving it together.
+
+- This can't be top down. At Enron there were great words on the wall: Integrity, Honesty, Service. Every company has words on the wall. This isn't trivial.
+
+- We do it here using three steps.
+  - Step 1: We agree on what the goal is. On what a great environment/culture looks like.
+  - Step 2: We try different things to deliberately move towards our goal.
+  - Step 3: We measure how we're doing, and we try something else.
+
+Home groups are a place for us to decide on what the next experiment is, and to discuss how the previous experiments are going. 
+
+### Misc Reminders
 
 - Project the [Dynamic Tensions Board](https://docs.google.com/spreadsheets/d/1kTIV5f3U12BuIRzlgTiETbE0OTMRWiAtKgXdROvLcAY/edit#gid=773629604) to the group before starting.
 - Introduce the "Process Timeout" and encourage anybody to use it to ask clarifying questions about the process. If this is an early group, set the expectation that there will be dozens of Process Timeouts since you won't be describing the process but jumping right in.
 - Remind everyone about the agency & safety values. They have a choice about wether or not participate. They need to speak up if they don't feel safe. Ceremonies are by definition non-coercive. They must be entered willingly.
-- Remind people they can pass in any go-around. If they pass, the facilitator will get to them at the end and give them one more opportunity to participate which they can take or leave. 
+- Remind people they can pass in any go-around. If they pass, the facilitator will get to them at the end and give them one more opportunity to participate which they can take or leave.
 - Note that start time and end time of the ceremony.
 - Remind people to turn screens off and to protect the space from their "todos".
 - People might need their screens during the **build proposals** step. Remind them to stay focussed and close their screens the moment they feel they have all their proposals in.
