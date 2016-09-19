@@ -1,82 +1,33 @@
 # Growth Tension
 
-## Truth <--> Safety
+## Challenge &lt;--&gt; Support
 
-We hold the fundamental belief that all people can learn and grow, and are driven by a deep desire to do so.
+The Growth Tension optimizes the energies between challenge and support. We hold the fundamental belief that all people can learn and grow, and are driven by a deep desire to do so. When encountering novel situations that challenge our limits, we need an appropriate amount of support to meet those challenges.
 
-The Growth Tension optimizes the energies between safety and truth. Growth truly happens when we feel safe enough to risk truth telling with one another; when we feel safe enough to take a hard look at ourselves and accept the gift of our community’s feedback; when we are held accountable without feeling judged; when we stretch to remain in integrity with ourselves and our shared agreements; when we strive to be impeccable with our words.
+Support without challenge keeps us complacent and stagnant, while challenge without support can lead to anxiety and low morale. We seek to create a high challenge, high support environment that, when achieved, keeps us in our "stretch" zone, or [Zone of Proximal Development](https://en.wikipedia.org/wiki/Zone_of_proximal_development), where we can accomplish things with support that we can't yet achieve on our own.
 
-Everyone at Learners Guild makes a commitment to their own personal development. They also make a commitment to the personal growth of others. We do this as a necessary means of achieving the highest learning outcomes, and as an end in itself.
+In addition to technical development, everyone at Learners Guild makes a commitment to their own personal growth and to the personal growth of others. We do this as a necessary means of achieving the highest learning outcomes, and as an end in itself.
 
-We are in the learning business. Learning is the process of acting on our curiosity, receiving feedback, integrating it, and reflecting on it. In working together, we are animated by:
+It can be an intensely fulfilling experience to progress and recognize one’s path towards mastery. We achieve Growth by co-creating an environment that challenges us out of our comfort zone, and supports us in overcoming these challenges. We cherish growth and development in all that we do, and when possible, raise the salience of this journey for our members, and ourselves.
 
-## Truth
+## Challenge
 
-- Courage
-- Transparency
-- Continuous Feedback
-- Openness
+* Relevant Stretchy goals
+* Zone of Proximal Development
 
-## Safety
+## Support
 
-- Kindness
-- Appreciation
-- Vulnerability
-- Privacy
+* Guidance
+* Mentorship
+* Resources
 
-## Look and Feel
+## Look & Feel
 
-### A genuine love for and pursuit of truth
+**What’s possible:** An environment that is “high challenge, high support” enables me to accomplish things that I can’t do alone. I’m stretched and pushed into my Zone of Proximal Development, consistently working on challenges that are slightly out of my reach, but that I can effectively tackle with support and guidance.
 
-We deliberately remove obstacles to truth telling. We welcome mistakes as long as there is authentic and vulnerable reflection as well as personal responsibility. We are 100% transparent to each other and our stakeholders, and as open as we can be to the public without compromising our purpose (for example, we might choose to keep a certain expansion plan private from the public in order to maintain a competitive advantage in a new market).
+**Feels like:** Working in my ZPD with adequate support is inherently joyful; I can tell I’m acquiring new skills, growing and developing my capacities. I’m challenged enough to tell I’ve accomplished something at the end of the day, but not so much that I feel consistently defeated or demoralized. There may be moments or even long stretches of frustration and struggle, but it’s in these moments that I feel safe enough to ask for help and the appropriate amount and type of support is available \(modeling, coaching, or encouragement\). I experience a sense of accomplishment and personal efficacy.
 
-### Building Trust with Truth
+**Looks like:** High engagement, the room is “buzzing”, people are eager to help me \(and I’m eager to help them\) and tackle problems together. I know how to get help when I need it and where to get it from. When providing help, I know something about the right kind of help to offer \(does the person need me to show them? Talk them through it? Encourage them to stick with it through a challenging moment?\) High fives, exclamations of success, appreciations, funny dance moves, and encouragement abound.
 
-Communication and negotiation among groups of people is difficult, but the more honest we can be with each other, the easier it will be for us to trust one another and work together as a team. Openness and honesty will be critical to our success, which is why this is one of our key values, and why it’s a mantra we repeat in many conversations.
+---
 
-Transparency may seem like a passive process, like "don’t hide anything," but it’s actually a big challenge to keep everyone up to date and on the same page about stuff they’re not working on on a daily basis. These are some of the agreements we use to make information more accessible, but our work is ongoing.
-
-### Member-to-Member Feedback
-
-Feedback given from one member to another is private unless the member receiving the feedback wishes to share.
-
-Giving and receiving feedback is an integral part of learning at Learners Guild. We acknowledge that in order for us all to continuously grow, we need to be able to give and receive feedback on things that push the edges of our comfort zones. Feedback is vulnerable and thus should be respectful and private.
-
-Members are, of course, encouraged to share as much of their _received_ feedback as they wish, whether to seek support or to stay in integrity.
-
-### Private Information: When and why information should be private
-
-Choose to make information private if:
-
-- making it transparent could damage the purpose of the organization
-- you do not own the information and do not have the owner's explicit permission to make it transparent
-- the information directly concerns another person and you do not have their explicit permission to make it transparent
-
-
-### Closing the Gaps
-
-In a typical organization, individuals expend enormous energy protecting themselves. People hide parts of themselves, avoid conflict, unwittingly sabotage change efforts, and subtly enforce a separation between “the me at work” and the “real me”. The consequences are all too common, and all too familiar: more stress and turnover, office politics and gossip, less engagement and collaboration, and ultimately worse outcomes.
-
-“Gaps” in this sense, are most often defined by the conversations we’re not having, the things we’re not discussing, the synchronicities with others that we are not achieving, and the work that, because of some self-protective fear, we are avoiding.[^1]
-
-#### Gaps may arise between:
-
-* what we do and what we say
-* what we feel and what we say
-* the water cooler conversation and the meeting room conversation
-* the real-time occasion of performance and the feedback on performance
-* knowledge of our principles and the application of those principles
-* observations perceived and feedback given
-* unacknowledged power dynamics
-* unresolved interpersonal tensions
-* what is discussed at a board or 'executive' level and what is shared with staff
-
-We acknowledge that these gaps exist, and we are dedicated to closing them.
-
-The existence of these gaps as a prime hindrance to our collective effectiveness and even learning in the specific. We work to create easily learnable methods that help individuals communicate in ways that don’t arouse defensive reactions in others, and that enable individuals to receive and integrate feedback.[^2]
-
-----
-
-[^1] Source: [The Deliberately Developmental Organization](https://static1.squarespace.com/static/54541a13e4b0331fc2f2a0f7/t/550b6b72e4b0ff02510e1594/1426811762075/W2G+What+is+a+DDO+Sept+2013+Copyrighted.pdf)
-
-[^2] Source: Overcoming Organizational Defenses: Facilitating Organizational Learning by Chris Argyris (Prentice Hall: 1990)
