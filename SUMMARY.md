@@ -4,22 +4,27 @@
 * [Board](https://docs.google.com/spreadsheets/d/1kTIV5f3U12BuIRzlgTiETbE0OTMRWiAtKgXdROvLcAY/edit#gid=773629604)
 * [Agreements](Agreements/README.md)
     * [Non Triangulation](Agreements/Non_Triangulation.md)
-* [Ceremonies](Ceremonies/README.md)
-    * [Brainstorm](Ceremonies/Brainstorming.md)
-    * [Check In](Ceremonies/Check_In.md)
-    * [Check Out](Ceremonies/Check_Out.md)
-    * [Circle Feedback](Ceremonies/Circle_Feedback.md)
-    * [Climate Check](Ceremonies/Climate_Check.md)
-    * [Clearing](Ceremonies/Clearing.md)
-    * [Collective Vision](Ceremonies/Collective_Vision.md)
-    * [Deepen Practice](Ceremonies/Deepen_Practice.md)
-    * [Home Group](Ceremonies/Home_Group.md)
+* [Activities](Activities/README.md)
+    * [Brainstorm](Activities/Brainstorming.md)
+    * [Check In](Activities/Check_In.md)
+    * [Check Out](Activities/Check_Out.md)
+    * [Circle Feedback](Activities/Circle_Feedback.md)
+    * [Climate Check](Activities/Climate_Check.md)
+    * [Clearing](Activities/Clearing.md)
+    * [Collective Vision](Activities/Collective_Vision.md)
+    * [Deepen Practice](Activities/Deepen_Practice.md)
+    * [Home Group](Activities/Home_Group.md)
 * [Dynamic Tensions](Dynamic_Tensions/README.md)
     * [Belonging](Dynamic_Tensions/Belonging.md)
     * [Efficacy](Dynamic_Tensions/Efficacy.md)
     * [Growth](Dynamic_Tensions/Growth.md)
+<<<<<<< HEAD
+    * [Mastery](Dynamic_Tensions/Mastery.md)
+    * [Flow](Dynamic_Tensions/Flow.md)
+=======
     * [Flow](Dynamic_Tensions/Flow.md)
     * [Trust](Dynamic_Tensions/Trust.md)
+>>>>>>> master
 * [Practices](Practices/README.md)
     * [Accountability](Practices/Accountability.md)
     * [Clearing Withholds](Practices/Clearing_Withholds.md)
@@ -34,5 +39,7 @@
     * [New Experiment](Processes/New_Experiment.md)
     * [Solidify Experiment](Processes/Solidify_Experiment.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
+<<<<<<< HEAD
+=======
 * [GLOSSARY](GLOSSARY.md)
-
+>>>>>>> master
