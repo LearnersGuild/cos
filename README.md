@@ -25,7 +25,7 @@ Everyone is responsible for embodying and improving this culture.
 * [Dynamic Tensions](/Dynamic_Tensions/README.md)
   * [Belonging](/Dynamic_Tensions/Belonging.md)
   * [Efficacy](/Dynamic_Tensions/Efficacy.md)
-  * [Trust](/Dynamic_Tensions/Growth.md)
+  * [Trust](/Dynamic_Tensions/Trust.md)
   * [Mastery](/Dynamic_Tensions/Mastery.md)
   * [Play](/Dynamic_Tensions/Play.md)
 
