@@ -7,3 +7,4 @@ Our agreements are meaningless if we don't hold ourselves and each other account
 ## Accountability Guidelines
 
 - Only hold people accountable for things they've explicitly agreed to
+- Set good boundaries: https://www.youtube.com/watch?v=6NxB6c6d39A
