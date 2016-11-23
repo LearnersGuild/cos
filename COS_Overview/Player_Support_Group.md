@@ -24,7 +24,7 @@ Members of a house, take on the collective challenge of moving the results of th
 
 **Step 0: \*\***Play a game\*\*
 
-**Step 1: \*\***[Check-in](Check-in.md)\*\*
+**Step 1: \*\***[Check-in](/Practice_Vulnerability/Check_In.md)\*\*
 
 **Step 2: Harvest Proposals**
 
@@ -32,7 +32,7 @@ Popcorn style, participants (including facilitator) invite the group, or an indi
 
 **Step 3: Select Proposal**
 
-The facilitator decides which proposal(s) they group will dive into, orders them and starts facilitating them. 
+The facilitator decides which proposal(s) they group will dive into, orders them and starts facilitating them.
 
 **Step 4: \*\***[Checkout](Check-out.md)\*\*
 

@@ -1,6 +1,6 @@
 # Culture OS
 
-- [COS_Overview](/COS_Overview/README.md)
+- [COS Overview](/COS_Overview/README.md)
     * [Player Support Group](/COS_Overview/Player_Support_Group.md)
     * [Practices](/COS_Overview/Practices.md)
 - [Dynamic Tensions](/Dynamic_Tensions/README.md)
