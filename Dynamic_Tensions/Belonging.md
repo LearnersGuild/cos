@@ -4,7 +4,7 @@
 
 ## Being Myself <--> Being in Relationship
 
-The Belonging Tension optimizes the energies between the individual and the community. We believe that human beings thrive when we are in the full expression of who we are while also being aware that we are a part of something greater than ourselves.
+The Belonging Tension optimizes the energies between the individual and the community. We believe that human beings thrive when we feel comfortable being who we are while also being aware that we are a part of something greater than ourselves.
 
 ## Being Myself
 

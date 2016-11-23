@@ -17,7 +17,7 @@ I have a place here.
 Chapters are the centers of learning within Learners Guild. They are communities of practice designed for intensive, deliberate learning and growth.
 
 ## Cohort
-A cohort is a set of learners with a shared start date and chapter.
+A cohort is a set of learners with a shared start date and chapter. Cohorts are named after their start month: e.g. November Cohort, September Cohort. Cohorts go through orientation, and some foundational workshops together. 
 
 ## Common Good
 I engage/participate for the betterment of the team over personal gain.
@@ -59,6 +59,9 @@ I resist blame and apathy.
 
 ## Guild Core
 The Guild Core is the central organizational body of Learners Guild. The Core is responsible for all business and operational functions not explicitly under the domain of the chapters. The core is not explicitly geography-specific.
+
+## House
+Guild members are grouped into houses. A house spans members from multiple cohorts. The purpose of a house is to create a small community of practice that meets regularly in Player Support Meetings to intentionally support each other and deliberately co-create a thriving learning culture.
 
 ## Kindness
 We treat ourselves and others with dignity, respect and an open heart.

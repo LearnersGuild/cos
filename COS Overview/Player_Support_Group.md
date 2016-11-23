@@ -1,13 +1,19 @@
 # Player Support Group
 
-**Purpose:** The purpose of the player support group session is to provide a dedicated time where players can discuss how to play the game better, gain support from each other, and connect deeply with other players. We do a check-in, followed by an open conversation about game-related issues.
+**Purpose:** The purpose of the player support group session is to provide a dedicated time where players can discuss how to play the game better, gain support from each other, and connect deeply with other players. We do a check-in, followed by an open conversation about game-related issues. The purpose of a house is to create a small community of practice that meets regularly in Player Support Meetings to intentionally support each other and deliberately co-create a thriving learning culture.
 
 # Ceremonies
 
-We’ve all participated in some kind of ceremony before. Graduations. Weddings. Birthday celebrations. Cultural or religious ceremonies. Ceremonies are time bound, typically facilitated by someone, or multiple people, and often happen either at regularly anticipated times \(like ritual ceremonies\), or at designated times with a clear beginning middle and end. A ceremony might take all day \(like orientation or graduation\), or might have a more discrete duration \(like a home group meeting\).
+We’ve all participated in some kind of ceremony before. Graduations. Weddings. Birthday celebrations. Cultural or religious ceremonies. Ceremonies are time bound, typically facilitated by someone, or multiple people, and often happen either at regularly anticipated times \(like ritual ceremonies\), or at designated times with a clear beginning middle and end. A ceremony might take all day \(like orientation or graduation\), or might have a more discrete duration \(like a  Player Support Group meeting\).
 
 Ceremonies are often powerful, and need to be entered deliberately and freely. It's important that everyone knows and feels in choice about whether or not to participate.
 
+## Climate survey
+health stat for culture is in retro as 7 questions in the retro so that there are direct stats related to COS so players will get more direct feedback on how they're upholding each tension
+
+climate survey is the metric for how well pods/houses are doing on each tension
+
+as a house you're taking on these numbers and moving them up
 
 
 **Step 1: \*\***[Check-in](Check-in.md)\*\*
@@ -42,7 +48,7 @@ If the proposal selected is a new component, the facilitator runs a [new experim
 
 ### Home Group Framing
 
-* Purpose of home group is to deliberately co-create culture. Culture happens. It's not something we can control, but it's something we can intentionally impact. Culture is invisible and impacts us more than anything else. Our Cultural Operating System assumes two things: First: Culture is critical to succeeding. Second: We can be intentional about co-creating it, and deliberate in evolving it together.
+* Purpose of Player Support Group is to deliberately co-create culture. Culture happens. It's not something we can control, but it's something we can intentionally impact. Culture is invisible and impacts us more than anything else. Our Cultural Operating System assumes two things: First: Culture is critical to succeeding. Second: We can be intentional about co-creating it, and deliberate in evolving it together.
 
 * This can't be top down. At Enron there were great words on the wall: Integrity, Honesty, Service. Every company has words on the wall. This isn't trivial.
 
@@ -65,3 +71,23 @@ Home groups are a place for us to decide on what the next experiment is, and to 
 * Remind people to turn screens off and to protect the space from their "todos".
 * People might need their screens during the **build proposals** step. Remind them to stay focussed and close their screens the moment they feel they have all their proposals in.
 * Offer to let anyone facilitate the process at the beginning. Hopefully, one day, someone will take you up on it!
+
+---
+
+## Facilitator notes
+
+Nonpurpose of houses = process feedback about the game. the game maker will hold weekly sessions for feedback.
+
+more transparent about why vulnerability
+
+learning support group / players group
+get support learning how to play this game better
+
+framing for last 50m: what supports people in this group? what's needed here?
+
+what's my incentive to support other people if i'm here for myself?
+- check ins help people care about each other
+- creating a container where truth and love can unfold
+- learners are 'attached' to each other via vulnerability, they care about each other because they know each other deeper
+
+Facilitator Notes: asking people who are in the red to check in about it and make a plan / get support
