@@ -1,10 +1,16 @@
 # Practices
 
-Practices tend to be ongoing and are used as needed. For example, we practice clearing withholds when we realize we’re holding onto feelings, perceptions or stories that are getting in the way of our connection with someone.
-
-A practice is usually associated with a shared skill, or shared knowledge. For example, to practice **Non Judgement** as a collective their needs to be shared understanding of what judgement is and shared language around it. Introducing a practice should usually involve a teaching (or series of teachings) around it.
+Practices are ongoing and shared. We use them to deepen in our Values and uphold the [Dynamic Tensions](/Dyanmic_Tensions/README.md). If our Values are our North Star, the practices are the ships we sail in. They help us get there.
 
 Our practices are aspirational. By definition, we will not do them perfectly, or consistently. Our commitment is to practice, fail, and then return again to the practice. Reminding each other when we forget, and reflecting to each other as we progress.
+
+A practice is usually associated with a shared skill, or shared knowledge. For example, to practice **Non Judgement** as a collective there needs to be shared understanding of what judgement is and shared language around it.
+
+## Workshops
+
+Introducing a practice usually happens at a workshop. While everyone is committed to attending the foundational workshops, they have a right to pass on any activity they choose not to participate in. 
+
+## Foundational Practices
 
 - Practice Accountability
     * [Accountability](/Practice_Accountability/Accountability.md)
@@ -28,3 +34,7 @@ Our practices are aspirational. By definition, we will not do them perfectly, or
     * [Check In](/Practice_Vulnerability/Check_In.md)
     * [Check Out](/Practice_Vulnerability/Check_Out.md)
     * [Non Judgement](/Practice_Vulnerability/Non_Judgement.md)
+
+## Additional Practices
+
+Over time, members of our learning collective can and will add practices that they value and offer them to the rest of us.

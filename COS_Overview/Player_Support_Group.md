@@ -12,7 +12,9 @@ The purpose of a house is to create a small community of practice that spans mul
 
 A Player Support Group is a form of ceremony. We’ve all participated in some kind of ceremony before. Graduations. Weddings. Birthday celebrations. Cultural or religious ceremonies. Ceremonies are time bound, typically facilitated by someone, or multiple people, and often happen either at regularly anticipated times \(like ritual ceremonies\), or at designated times with a clear beginning middle and end. A ceremony might take all day \(like orientation or graduation\), or might have a more discrete duration \(like a  Player Support Group meeting\).
 
-Ceremonies are often powerful, and need to be entered deliberately and freely. It's important that everyone knows and feels in choice about whether or not to participate.
+Ceremonies are often powerful, and need to be entered deliberately and freely. It's important that everyone at a ceremony is in choice about the degree to which they participate.
+
+While everyone is committed to attending Player Support Group, they have a right to pass on any activity they choose not to participate in.
 
 ## Climate survey
 
