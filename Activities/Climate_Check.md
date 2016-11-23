@@ -1,4 +1,4 @@
-# Climate Check 
+# Climate Check
 
 **Purpose:**  This is a **built-in** process used to brings the dynamic tensions to shared awareness. Provides feedback on current climate \/ culture.
 
@@ -18,7 +18,5 @@
 
 ### Facilitator notes
 
-* Project the [Dynamic Tensions Board](https://docs.google.com/spreadsheets/d/1kTIV5f3U12BuIRzlgTiETbE0OTMRWiAtKgXdROvLcAY/edit#gid=0) in a place where everyone can see
 * Remind people that they can pass \(and then get back to them at the end of the round\). Anybody can pass twice if they don't want to share
-* Resist the temptation to create a visible \(or invisible\) agenda of the issues people are bringing up. The purpose of the climate check is to bring the dynamic tensions and our shared values to the forefront of our minds and hearts, not to resolve anything. It is a glance in the mirror, a reflection, not a trouble shooting session. 
-
+* Resist the temptation to create a visible \(or invisible\) agenda of the issues people are bringing up. The purpose of the climate check is to bring the dynamic tensions and our shared values to the forefront of our minds and hearts, not to resolve anything. It is a glance in the mirror, a reflection, not a trouble shooting session.

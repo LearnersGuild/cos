@@ -2,6 +2,14 @@
 
 **Purpose:** The purpose of the player support group session is to provide a dedicated time where players can discuss how to play the game better, gain support from each other, and connect deeply with other players. We do a check-in, followed by an open conversation about game-related issues.
 
+# Ceremonies
+
+We’ve all participated in some kind of ceremony before. Graduations. Weddings. Birthday celebrations. Cultural or religious ceremonies. Ceremonies are time bound, typically facilitated by someone, or multiple people, and often happen either at regularly anticipated times \(like ritual ceremonies\), or at designated times with a clear beginning middle and end. A ceremony might take all day \(like orientation or graduation\), or might have a more discrete duration \(like a home group meeting\).
+
+Ceremonies are often powerful, and need to be entered deliberately and freely. It's important that everyone knows and feels in choice about whether or not to participate.
+
+
+
 **Step 1: \*\***[Check-in](Check-in.md)\*\*
 
 **Step 2: \*\***[Climate check](Climate-check.md)\*\*
@@ -57,4 +65,3 @@ Home groups are a place for us to decide on what the next experiment is, and to 
 * Remind people to turn screens off and to protect the space from their "todos".
 * People might need their screens during the **build proposals** step. Remind them to stay focussed and close their screens the moment they feel they have all their proposals in.
 * Offer to let anyone facilitate the process at the beginning. Hopefully, one day, someone will take you up on it!
-
