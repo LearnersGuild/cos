@@ -18,10 +18,10 @@ Our practices are aspirational. By definition, we will not do them perfectly, or
     * [Circle Feedback](/Practice_Feedback/Circle_Feedback.md)
     * [Climate Check](/Practice_Feedback/Climate_Check.md)
     * [Radical Honesty](/Practice_Feedback/Radical_Honesty.md)
-- Practice Interpersonal Tools
-    * [Clearing](/Practice_Interpersonal_Tools/Clearing.md)
-    * [Clearing Withholds](/Practice_Interpersonal_Tools/Clearing_Withholds.md)
-    * [Conflict](/Practice_Interpersonal_Tools/Conflict.md)
+- Practice Tending Relationships
+    * [Clearing](/Practice_Tending_Relationships/Clearing.md)
+    * [Clearing Withholds](/Practice_Tending_Relationships/Clearing_Withholds.md)
+    * [Conflict](/Practice_Tending_Relationships/Conflict.md)
 - Practice Overcoming Oppression
     * [Overcoming Oppression](/Practice_Overcoming_Oppression/Overcoming_Oppression.md)
 - Practice Vulnerability

@@ -42,9 +42,9 @@ Everyone is responsible for embodying and improving this culture.
     * [Climate Check](/Practice_Feedback/Climate_Check.md)
     * [Radical Honesty](/Practice_Feedback/Radical_Honesty.md)
 - Practice Interpersonal Tools
-    * [Clearing](/Practice_Interpersonal_Tools/Clearing.md)
-    * [Clearing Withholds](/Practice_Interpersonal_Tools/Clearing_Withholds.md)
-    * [Conflict](/Practice_Interpersonal_Tools/Conflict.md)
+    * [Clearing](/Practice_Tending_Relationships/Clearing.md)
+    * [Clearing Withholds](/Practice_Tending_Relationships/Clearing_Withholds.md)
+    * [Conflict](/Practice_Tending_Relationships/Conflict.md)
 - Practice Overcoming Oppression
     * [Overcoming Oppression](/Practice_Overcoming_Oppression/Overcoming_Oppression.md)
 - Practice Vulnerability
