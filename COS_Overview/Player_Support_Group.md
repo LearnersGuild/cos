@@ -2,11 +2,11 @@
 
 ## Purpose
 
-Purpose of Player Support Group is to deliberately co-create culture. Culture happens. It's not something we can control, but it's something we can intentionally impact. Culture is invisible and impacts us more than anything else. Our Cultural Operating System assumes two things: First: Culture is critical to succeeding. Second: We can be intentional about co-creating it, and deliberate in evolving it together.
+Player Support Group is a dedicated time where players can discuss how to play the game better, deepen in the foundational COS practices, and gain support from and connect with each other.
 
 ## Houses
 
-The purpose of a house is to create a small community of practice that spans multiple cohorts and meets regularly to support each other and deliberately co-create a thriving learning culture. The group provides a dedicated time where players can discuss how to play the game better, deepen in the foundational COS practices, gain support from and connect with each other.
+The purpose of a house is to create a small community of practice that spans multiple cohorts and meets regularly to support each other and deliberately co-create a thriving learning culture.
 
 ## Ceremony
 

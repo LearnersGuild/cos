@@ -6,7 +6,17 @@ Welcome!
 
 Our learning environment is self-organizing, rigorously goal-driven, and personally and professionally rewarding. A powerful, positive culture is the strongest, most pervasive support structure a learning community can have.
 
-Our Culture OS provides a framework by which we --as members of the learning collective-- can participate in co-creating a culture that draws out the best in us. It defines the components of our shared culture and the processes by which members of the learning collective can shape it.
+As a collective each member takes on two objectives:
+
+- **Objective 1:** Create and sustain a dignified livelihood as a software developer.
+- **Objective 2:** Cultivate a learning collective that supports me and others in achieving Objective 1.
+
+Our Culture OS provides a framework by which we --as members of the learning collective-- can achieve the second objective. It supports us in co-creating a culture that draws out the best in us. It defines the components of our shared culture and the processes by which members of the learning collective can shape it.
+
+Culture happens. It's not something we can control, but it's something we can intentionally impact. Culture is invisible and impacts us more than anything else. Our Cultural Operating System assumes two things:
+
+- First: Culture is critical to succeeding.
+- Second: We can be intentional about co-creating it, and deliberate in evolving it together.
 
 Everyone is responsible for embodying and improving this culture.
 
