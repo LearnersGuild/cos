@@ -1,10 +1,10 @@
 # Player Support Group
 
-**Purpose:** This is a **built-in** process. The purpose of a home group session is to deliberately deepen in our values together. We do a check in, followed by a climate check. After the climate check we build a list of proposals for how we’ll spend our time, and then collectively decide which of the proposals we follow.
+**Purpose:** The purpose of the player support group session is to provide a dedicated time where players can discuss how to play the game better, gain support from each other, and connect deeply with other players. We do a check-in, followed by an open conversation about game-related issues.
 
-**Step 1: ****[Check-in](Check-in.md)**
+**Step 1: \*\***[Check-in](Check-in.md)\*\*
 
-**Step 2: ****[Climate check](Climate-check.md)**
+**Step 2: \*\***[Climate check](Climate-check.md)\*\*
 
 **Step 3: Solidify Experiments**
 
@@ -26,7 +26,7 @@ If the proposal selected is a new component, the facilitator runs a [new experim
 
 **\(optional\) Step 6: One more proposal** If there is time left for another component, the facilitator initiates another select proposal round.
 
-**Step 7: ****[Checkout](Check-out.md)**
+**Step 7: \*\***[Checkout](Check-out.md)\*\*
 
 ---
 
