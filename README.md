@@ -10,9 +10,9 @@ Our Culture OS provides a framework by which we --as members of the learning col
 
 Everyone is responsible for embodying and improving this culture.
 
-- [COS Overview](/COS Overview/README.md)
-    * [Player Support Group](/COS Overview/Player_Support_Group.md)
-    * [Practices](/COS Overview/Practices.md)
+- [COS_Overview](/COS_Overview/README.md)
+    * [Player Support Group](/COS_Overview/Player_Support_Group.md)
+    * [Practices](/COS_Overview/Practices.md)
 - [Dynamic Tensions](/Dynamic_Tensions/README.md)
     * [Belonging](/Dynamic_Tensions/Belonging.md)
     * [Efficacy](/Dynamic_Tensions/Efficacy.md)
