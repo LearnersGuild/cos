@@ -34,7 +34,7 @@ Popcorn style, participants (including facilitator) invite the group, or an indi
 
 The facilitator decides which proposal(s) they group will dive into, orders them and starts facilitating them.
 
-**Step 4: \*\***[Checkout](Check-out.md)\*\*
+**Step 4: \*\***[Checkout](/Practice_Vulnerability/Check-out.md)\*\*
 
 ---
 
