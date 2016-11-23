@@ -2,8 +2,8 @@
 
 There are 5 dynamic tensions:
 
-- [Belonging](./Belonging.md)
-- [Efficacy](./Efficacy.md)
-- [Flow](./Flow.md)
-- [Growth](./Growth.md)
-- [Trust](./Trust.md)
+- [Belonging](./Belonging.md): Being Myself <--> Being in Relationship
+- [Efficacy](./Efficacy.md): Agency <--> Structure
+- [Flow](./Flow.md): Fun <--> Engagement
+- [Growth](./Growth.md): Challenge &lt;--&gt; Support
+- [Trust](./Trust.md): Truth &lt;--&gt; Safety
