@@ -1,5 +1,5 @@
 {
-  "name": "culture OS",
+  "name": "COS",
   "version": "0.0.1",
   "description": "Guide for Learners",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LearnersGuild/culture OS.git"
+    "url": "git+https://github.com/LearnersGuild/cos.git"
   },
   "author": "Shereef Bishay <shereef@learnersguild.org>",
   "license": "CC-BY-NC-4.0",
   "bugs": {
-    "url": "https://github.com/LearnersGuild/culture OS/issues"
+    "url": "https://github.com/LearnersGuild/cos/issues"
   },
-  "homepage": "https://github.com/LearnersGuild/culture OS#readme",
+  "homepage": "https://github.com/LearnersGuild/cos#readme",
   "devDependencies": {
     "gitbook": "^3.1.1",
     "gitbook-cli": "^2.3.0",
