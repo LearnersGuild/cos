@@ -10,8 +10,6 @@ Our Culture OS provides a framework by which we --as members of the learning col
 
 Everyone is responsible for embodying and improving this culture.
 
-The [Dynamic Tensions Board](https://docs.google.com/spreadsheets/d/1kTIV5f3U12BuIRzlgTiETbE0OTMRWiAtKgXdROvLcAY/edit#gid=0) is where we currently track COS work.
-
 ---
 
 [](http://creativecommons.org/licenses/by-nc/4.0/)
