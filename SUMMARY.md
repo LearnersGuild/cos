@@ -9,7 +9,6 @@
     * [Flow](/Dynamic_Tensions/Flow.md)
     * [Growth](/Dynamic_Tensions/Growth.md)
     * [Trust](/Dynamic_Tensions/Trust.md)
-  * [GLOSSARY](/GLOSSARY.md)
 - Practice Accountability
     * [Accountability](/Practice_Accountability/Accountability.md)
     * [Agreements](/Practice_Accountability/Agreements.md)
@@ -33,3 +32,4 @@
     * [Check Out](/Practice_Vulnerability/Check_Out.md)
     * [Non Judgement](/Practice_Vulnerability/Non_Judgement.md)
 - [CONTRIBUTING](/CONTRIBUTING.md)
+- [GLOSSARY](/GLOSSARY.md)
