@@ -1,6 +1,6 @@
-# Conflict Resolution Process
+# Formal Request Process
 
-**Purpose:**  This is a **built-in** process used to resolve an interpersonal conflict.
+**Purpose:**  This is a **built-in** process used to make an attempt at resolving conflict and/or addressing as situation that needs to change
 
 **Serves Values:** Truth, Being in Relationship, Safety
 
@@ -14,21 +14,25 @@ As members of a learning collective, we address and resolve conflicts with these
 
 ## Formal Process
 
-Most interpersonal tensions can be resolved by sharing and being heard. If, however, your tension isn't just resolved by being heard, you still need to address it directly with the person you have tension with using a more formal process.  
+Most interpersonal tensions can be resolved by sharing and being heard or by making an informal request. If, however, your tension isn't just resolved by being heard, you still need to address it directly with the person you have tension with using a more formal process.  
 
-Any formal conflict starts with someone bringing a request directly to another member. The request needs to be actionable, clear, present, and sufficient to resolve the conflict. Requests can be benign ("Please make a public commitment to our team to arrive to meetings on time."), to more involved ("Please commit to repairing what happened by writing an email to everyone."), to the most extreme ("Please leave our team" or "Please leave the Guild").[^1]
+Any formal request starts with someone bringing a request directly to another member. The request needs to be actionable, clear, present, and sufficient to resolve the conflict. Requests can be benign ("Please make a public commitment to our team to arrive to meetings on time."), to more involved ("Please commit to repairing what happened by writing an email to everyone."), to the most extreme ("Please leave our team" or "Please leave the Guild").[^1]
 
 At all stages, the person receiving the request can say Yes, No, or negotiate for a different outcome. If there's a "Yes" or another outcome that's sufficient to both, then the conflict is resolved. If there's a "No" then the initiating member has the choice of either escalating the conflict to the next phase, or dropping it.
 
 ## Resolution Phases
 
-1. In the first phase, the two parties sit together and try to sort it out privately.
+1. In the first phase, the two parties sit together and try to sort it out privately. It's important for the requester to make it clear that they are starting a *Formal Request Process*
 
 2. If they can’t find a solution agreeable to both, they nominate another person they both trust to act as a mediator. The mediator doesn’t impose a decision. Rather they support the participants in coming to their own solution. Again, a clear request is needed, and a Yes, No, or a compromise.
 
 3. If mediation fails, a panel of topic-relevant members is convened. Again the panel does not impose a solution. They weigh in with what they think is fair, and it's up to the person receiving the request to decide.
 
 4. In an ultimate step, if a resolution is still not reached, two or more Learning Facilitators are called into the panel. Unlike the previous stages the Learning Facilitators can choose to impose a solution if they all agree on one.[^2]
+
+## Writing things down
+
+It's really helpful if an agreement is reached for the parties to write it down in an email or somewhere else so they can be sure they have clarity on what they agreed on .
 
 ## Clearing Coaching
 

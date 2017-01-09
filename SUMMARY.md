@@ -23,7 +23,7 @@
 - Practice Tending Relationships
     * [Clearing](/Practice_Tending_Relationships/Clearing.md)
     * [Clearing Withholds](/Practice_Tending_Relationships/Clearing_Withholds.md)
-    * [Conflict](/Practice_Tending_Relationships/Conflict.md)
+    * [Formal Request](/Practice_Tending_Relationships/Conflict.md)
     * [Non Triangulation](/Practice_Tending_Relationships/Non_Triangulation.md)
 - Practice Overcoming Oppression
     * [Overcoming Oppression](/Practice_Overcoming_Oppression/Overcoming_Oppression.md)
