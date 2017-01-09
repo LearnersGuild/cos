@@ -21,11 +21,13 @@
     * [Climate Check](/Practice_Feedback/Climate_Check.md)
     * [Radical Honesty](/Practice_Feedback/Radical_Honesty.md)
 - Practice Tending Relationships
-    * [Requests](/Practice_Tending_Relationships/Requests.md)
-    * [Clearing](/Practice_Tending_Relationships/Clearing.md)
-    * [Clearing Withholds](/Practice_Tending_Relationships/Clearing_Withholds.md)
-    * [Formal Request](/Practice_Tending_Relationships/Conflict.md)
-    * [Non Triangulation](/Practice_Tending_Relationships/Non_Triangulation.md)
+    * [Relationship Toolbox](/Practice_Tending_Relationship/relationship_toolbox.md)
+    * [Requests](/Practice_Tending_Relationship/Requests.md)
+    * [Clearing](/Practice_Tending_Relationship/Clearing.md)
+    * [Clearing Withholds](/Practice_Tending_Relationship/Clearing_Withholds.md)
+    * [Formal Request](/Practice_Tending_Relationship/Conflict.md)
+    * [Non Triangulation](/Practice_Tending_Relationship/Non_Triangulation.md)
+    * [Challenge](/Practice_Tending_Relationship/Challenge.md)
 - Practice Overcoming Oppression
     * [Overcoming Oppression](/Practice_Overcoming_Oppression/Overcoming_Oppression.md)
 - Practice Vulnerability

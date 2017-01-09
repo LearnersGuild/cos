@@ -14,7 +14,7 @@ As members of a learning collective, we address and resolve conflicts with these
 
 ## Formal Process
 
-Most interpersonal tensions can be resolved by sharing and being heard or by making an informal request. If, however, your tension isn't just resolved by being heard, you still need to address it directly with the person you have tension with using a more formal process.  
+Most interpersonal tensions can be resolved by [sharing and being heard](Clearing_Withholds.md) or by making an [informal request](Requests.md). If, however, your tension isn't just resolved by being heard, you still need to address it directly with the person you have tension with using a more formal process.  
 
 Any formal request starts with someone bringing a request directly to another member. The request needs to be actionable, clear, present, and sufficient to resolve the conflict. Requests can be benign ("Please make a public commitment to our team to arrive to meetings on time."), to more involved ("Please commit to repairing what happened by writing an email to everyone."), to the most extreme ("Please leave our team" or "Please leave the Guild").[^1]
 

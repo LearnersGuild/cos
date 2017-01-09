@@ -21,7 +21,6 @@ A strong request is actionable, clear, present.
 - A demand is usually not open to negotiation, a true request is.
 - A demand is future based: "Please don't do that again in the future.", a true request is always present: "Would you please give me your word to not do that again."
 
-
 ## You know you’re falling into victim if you find yourself:
 
 1. Triangulating
@@ -30,3 +29,7 @@ A strong request is actionable, clear, present.
 4. Feeling righteous and entitled that the world respond to you.
 5. Feeling like “this is happening to me, and I can’t do anything about it”
 6. Disconnecting / isolating / giving up on your vision
+
+## Requests v.s. Formal Requests
+
+Making a request is a useful tool when attempting to create, or build a vision. Sometimes there is a situation that needs to be addressed/confronted, and what's needed is for you to step into Challenger role v.s. Creator role. In Challenger role, you may start with an informal request, but you might need to escalate that to a [challenge](Challenge.md) or [formal request](Conflict.md)
