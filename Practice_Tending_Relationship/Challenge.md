@@ -8,8 +8,9 @@ There are four steps to a challenge:
 
 1. Ask permission "Hey, I have a challenge for you, is now a good time?"
 2. Briefly state what you're noticing "I noticed the last 3 projects, you got less than 40% complete on them"
-3. Set a clear, time bound, actionable  "I challenge you to get over 80% completeness on the next 3 projects"
+3. Set a clear, time bound, actionable challenge  "I challenge you to get over 80% completeness on the next 3 projects"
 4. Ask for acceptance, and be willing to hear yes, no, or to negotiate.
+5. Pro step: Follow up with the person you challenged and hold them accountable.
 
 When delivered well, a challenge feels like a gift. It feels like you are seeing my potential and inviting me to step into it. It feels like you're on my team.
 
