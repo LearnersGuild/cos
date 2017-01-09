@@ -16,6 +16,8 @@ Clearings come in many different flavors, these are the main three:
 
 * **A Reveal:** Sometimes it's important to reveal something about how our mind/heart works in order to clear the air. Reveals can be "negative" or "positive" stories/history/self image that's relevant to how we are relating personally to someone. This is distinctly different from feedback about their work product. For example: "Your accent reminds me of this guy who used to bully me, and sometimes I notice myself mad at you for no reason." or "I really like your writing style. I've always wanted to write like that and sometimes I notice that I feel intimidated and jealous of you."
 
+An apology can also be another form of clearing. 
+
 Sharing reveals in this way, and being heard, can often diffuse the withhold, and reduce its charge.
 
 If you tried to clear a withhold with someone and failed, consider using a [Formal Request Process](/Processes/Conflict.md) to resolve it.
