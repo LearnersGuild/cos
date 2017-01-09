@@ -4,7 +4,7 @@ When you step into creator role, you have a vision for the world that is differe
 
 Unless you're in a rare situation where you can bring about this vision by yourself, you'll need other people to align with your vision and help you make it happen. The most powerful tool to do that, is to ask. To make a request.
 
-A strong request is actionable, clear, present.
+A strong request is actionable, clear, present. It's vulnerable to make a request, and most people avoid it!
 
 ## Different kinds of requests:
 
