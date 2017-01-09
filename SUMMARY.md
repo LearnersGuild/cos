@@ -21,6 +21,7 @@
     * [Climate Check](/Practice_Feedback/Climate_Check.md)
     * [Radical Honesty](/Practice_Feedback/Radical_Honesty.md)
 - Practice Tending Relationships
+    * [Requests](/Practice_Tending_Relationships/Requests.md)
     * [Clearing](/Practice_Tending_Relationships/Clearing.md)
     * [Clearing Withholds](/Practice_Tending_Relationships/Clearing_Withholds.md)
     * [Formal Request](/Practice_Tending_Relationships/Conflict.md)
