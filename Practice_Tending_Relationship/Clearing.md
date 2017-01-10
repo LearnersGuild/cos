@@ -1,4 +1,4 @@
-# Clearing 
+# Clearing Ceremony
 
 **Purpose:** Floss the crud that forms in relationships
 
@@ -14,4 +14,3 @@
 * If you know you have someone you need to clear with, walk up to them and wait.
 * Come back to a circle, and do another "clearing count".
 * Notice how the total has dropped and remind everyone that the goal is to keep the number at zero.
-
