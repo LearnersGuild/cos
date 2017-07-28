@@ -1,0 +1,5 @@
+{
+  "bookname": "Culture OS",
+  "gitbook": "3.x.x",
+  "ignores": ["_book", "node_modules"]
+}
