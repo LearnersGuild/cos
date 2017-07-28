@@ -1,3 +1,9 @@
+##### The COS Guide is undergoing edits to reflect recent upgrades at the Guild. You may find a few inconsistencies, broken links or outdated references below until the final revisions are complete and this guide is integrated into the Learner Guide. Thank you for patience. {#the-learner-guide-is-undergoing-edits-to-reflect-recent-upgrades-at-the-guild-you-may-find-a-few-inconsistencies-broken-links-or-outdated-references-below-until-the-final-revisions-are-complete}
+
+~ Learners Guild
+
+---
+
 > “An idea that is not dangerous is unworthy of being called an idea at all.” ~ Oscar Wilde
 
 # Learners Guild Culture Operating System
@@ -14,6 +20,7 @@ The [Dynamic Tensions Board](https://docs.google.com/spreadsheets/d/1kTIV5f3U12B
 
 ---
 
-[](http://creativecommons.org/licenses/by-nc/4.0/)
+
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+
